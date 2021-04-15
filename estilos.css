@@ -1,0 +1,57 @@
+body{
+	background-color: 	#E0E0B7;
+}
+.banner{
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	width: 90%;
+	height: 45%;
+}
+.i1{
+	position: absolute;
+	top: 50%;
+	left: 28%;
+}
+.i2{
+	position: absolute;
+	top: 143%;
+	left: 22%;
+}
+.i3{
+	position: absolute;
+	top: 238%;
+	left: 23%;
+}
+.i4{
+	position: absolute;
+	top: 334%;
+	left: 22%;
+}
+.im1{
+	position: absolute;
+	top: 47%;
+	left: 0%;
+	width: 100%;
+	height: 92%;
+}
+.im2{
+	position: absolute;
+	top: 233%;
+	left: 0%;
+	width: 100%;
+	height: 95%;
+}
+.im3{
+	position: absolute;
+	top: 370%;
+	left: 0%;
+	width: 100%;
+	height: 45%;
+}
+.c{
+	position: absolute;
+	top: 373%;
+	left: 5%;
+}
+
